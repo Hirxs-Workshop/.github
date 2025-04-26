@@ -10,8 +10,6 @@
 - 🔖 Fabulous Furnished: [Click here to view](https://github.com/Hirxs-MC/fabulous-furnished-bedrock)
 - 🔖 Emojis-In-Chat: [Click here to view](https://github.com/Hirxs-MC/emoji-in-chat)
 - 🔖 Chat Helpy: [Click here to view](https://github.com/Hirxs-Workshop/Chat-Helpy)
-- 🔖 3D Items: [Click here to view](https://github.com/Hirxs-Workshop/3d-items)
-- 🔖 Cosmetics Plus: [Click here to view](https://github.com/Hirxs-Workshop/Cosmetics-Plus)
 
 ![](https://hirxs-website.net/wp-content/uploads/2024/08/Copia-de-Titulo-3.png)
 ## 👋 Greetings, i am Hirx's
